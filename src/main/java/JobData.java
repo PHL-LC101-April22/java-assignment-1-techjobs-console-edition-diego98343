@@ -89,7 +89,6 @@ public class JobData {
 
             String aValue = row.get(column);
 
-
             if (aValue.equalsIgnoreCase(value)) {
                 jobs.add(row);
             }

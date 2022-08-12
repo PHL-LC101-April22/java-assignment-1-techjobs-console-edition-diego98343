@@ -142,6 +142,7 @@ public class TechJobs {
                       jobInfo+="*****";
                       System.out.println(jobInfo);
 
+
 //                      for(String choiceValue :TotalKeys.values()){
 //                          JobInfo =+ choiceValue;
 //                      }
