@@ -140,7 +140,7 @@ public class TechJobs {
                           jobInfo += (JobDisplay.getKey()+": "+ JobDisplay.getValue()+ "\n");
                       }
                       jobInfo+="*****";
-                      System.out.println(jobInfo);
+                      System.out.print(jobInfo);
 
 
 //                      for(String choiceValue :TotalKeys.values()){
